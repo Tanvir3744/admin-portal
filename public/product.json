@@ -1,0 +1,92 @@
+[
+  {
+    "img": "https://m.media-amazon.com/images/I/71wrIZujPIL._AC_UL320_.jpg",
+    "name": "Roku Streaming Stick 4K 2021",
+    "desc": "Streaming Device 4K/HDR/Dolby Vision with Roku Voice Remote and TV Controls",
+    "price": "$29.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/717dWfmxXVL._AC_UL320_.jpg",
+    "name": "Roku Express | HD Streaming Media",
+    "desc": "Player with High Speed HDMI Cable and Simple Remote",
+    "price": "$19.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_UL320_.jpg",
+    "name": "Sceptre 24 inch Professional Thin 75Hz",
+    "desc": "1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+    "price": "$99.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/712xpaJPT6L._AC_UL320_.jpg",
+    "name": "Logitech C922x Pro Stream Webcam ",
+    "desc": "Full 1080p HD Camera",
+    "price": "$109.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81tjLksKixL._AC_UL320_.jpg",
+    "name":"Seagate Portable 2tb",
+    "desc":"Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+    "price":"$60"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/71c5W9NxN5L._AC_UL320_.jpg",
+    "name":"Acer Chromebook Spin 311 Convertible Laptop ",
+    "desc":" Intel Celeron N4000 | 11.6 inch HD Touch Corning Gorilla Glass Display | 4GB LPDDR4 | 64GB eMMC | Intel",
+    "price":"$199"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/91fAU6mxFsL._AC_UL320_.jpg",
+    "name":"HP 24mh FHD Monitor",
+    "desc":"Computer Monitor with 23.8-Inch IPS Display (1080p) - Built-In Speakers and VESA Mountin",
+    "price":"$199.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81vkjxbO-rL._AC_UL320_.jpg",
+    "name":"SAMSUNG 970 EVO Plus SSD",
+    "desc":"1TB, M.2 NVMe Interface Internal Solid State Hard Drive with V-NAND Technology for Gaming,",
+    "price":"$99.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81zJ87YqekL._AC_UL320_.jpg",
+    "name":"SAMSUNG 980 PRO SSD 2TB",
+    "desc":"PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed",
+    "price":"$149.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81QpkIctqPL._AC_UL320_.jpg",
+    "name":"Acer SB220Q bi 21.5 Inches",
+    "desc":"HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA Port), Black",
+    "price":"$92.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/61Fa5aoL-KL._AC_UL320_.jpg",
+    "name":"SAMSUNG 27 inch Odyssey G32A",
+    "desc":"FHD 1ms 165Hz Gaming Monitor with Eye Saver Mode, Free-Sync Premium, Height Adjustable",
+    "price":"$189.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81CFOwoLVlL._AC_UL320_.jpg",
+    "name":"Skytech Prism II Gaming PC",
+    "desc":"Desktop – INTEL Core i9 12900K 3.2 GHz, RTX 3090, 1TB NVME Gen4 SSD, 32G DDR5 RGB, 850",
+    "price":"$4189.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/71ecRIQPd3L._AC_UL320_.jpg",
+    "name":"SkytecBENGOO G9000 Stereo ",
+    "desc":"Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic,",
+    "price":"$289.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/7189iXimfWL._AC_UL320_.jpg",
+    "name":"Acer Aspire 5 A515-46-R3UB",
+    "desc":"15.6 inch Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 |",
+    "price":"$319.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_UL320_.jpg",
+    "name":"Logitech G502 HERO ",
+    "desc":"High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable",
+    "price":"$419.99"
+  }
+]

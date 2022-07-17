@@ -1,0 +1,44 @@
+[
+  {
+    "img": "https://m.media-amazon.com/images/I/71wrIZujPIL._AC_UL320_.jpg",
+    "name": "Roku Streaming Stick 4K 2021",
+    "desc": "Streaming Device 4K/HDR/Dolby Vision with Roku Voice Remote and TV Controls",
+    "price": "$29.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/717dWfmxXVL._AC_UL320_.jpg",
+    "name": "Roku Express | HD Streaming Media",
+    "desc": "Player with High Speed HDMI Cable and Simple Remote",
+    "price": "$19.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_UL320_.jpg",
+    "name": "Sceptre 24 inch Professional Thin 75Hz",
+    "desc": "1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+    "price": "$99.99"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/712xpaJPT6L._AC_UL320_.jpg",
+    "name": "Logitech C922x Pro Stream Webcam ",
+    "desc": "Full 1080p HD Camera",
+    "price": "$109.99"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/81tjLksKixL._AC_UL320_.jpg",
+    "name":"Seagate Portable 2tb",
+    "desc":"Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+    "price":"$60"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/71c5W9NxN5L._AC_UL320_.jpg",
+    "name":"Acer Chromebook Spin 311 Convertible Laptop ",
+    "desc":" Intel Celeron N4000 | 11.6 inch HD Touch Corning Gorilla Glass Display | 4GB LPDDR4 | 64GB eMMC | Intel",
+    "price":"$199"
+  },
+  {
+    "img":"https://m.media-amazon.com/images/I/91fAU6mxFsL._AC_UL320_.jpg",
+    "name":"HP 24mh FHD Monitor",
+    "desc":" Intel Celeron N4000 | 11.6 inch HD Touch Corning Gorilla Glass Display | 4GB LPDDR4 | 64GB eMMC | Intel",
+    "price":"$199"
+  }
+]

@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      <h2>Add to Cart</h2>
+      <h2></h2>
       
     </div>
   );

@@ -23,7 +23,7 @@ module.exports = {
     },
   },
   daisyui: {
-    themes: ["cupcake","cmyk"],
+    themes: ["cupcake",  "cmyk"],
   },
   plugins: [require("daisyui")],
 }
