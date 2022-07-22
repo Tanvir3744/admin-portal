@@ -11,7 +11,7 @@ export const setProductReducers = (state = initProdState, { type, payload }) => 
         case ActionType.SET_PRODUCTS:
             return {
                 ...state,
-                products: payload 
+
             };
         
         default:

@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Products = () => {
+    return (
+        <div>
+            <h2 className='text-slate-800 font-semibold'>this is product page</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore doloremque pariatur officiis qui maiores mollitia aspernatur alias excepturi! Minus quos repellendus exercitationem voluptatibus at dolorem doloribus optio molestiae, possimus quasi repellat quo quibusdam obcaecati ullam ex. Beatae, fugiat! Vero, quia quisquam, cumque magni, soluta blanditiis officia dolor beatae voluptatibus unde quidem consequuntur consectetur. Officia cumque culpa dignissimos iusto asperiores officiis voluptate ipsam earum consequuntur reprehenderit temporibus architecto incidunt, saepe accusamus impedit. Mollitia dolores est assumenda repellendus facilis ratione, amet eum magni nemo ex illum nostrum repellat laboriosam labore incidunt perspiciatis excepturi ea omnis ducimus ipsam natus hic facere. Explicabo ut quos nisi sed nobis aliquam dolores blanditiis delectus? Consequatur inventore expedita exercitationem magni impedit non delectus sint porro velit assumenda, est nam tempora asperiores nostrum, quibusdam adipisci voluptatum, minima ut eaque dolore tenetur. In ut, iusto praesentium quis mollitia fugit deleniti sapiente fuga assumenda maxime error expedita at nobis sequi vel dolore, necessitatibus eius illum, veritatis porro non. Dolor tempore dicta qui laboriosam culpa voluptatibus! Dicta tenetur nemo facilis excepturi temporibus incidunt expedita, omnis aut ducimus, ut iste nesciunt blanditiis velit perferendis neque quae a. Expedita iusto suscipit quo repellendus consequuntur sint modi saepe. Voluptatibus adipisci nihil reprehenderit quos deleniti debitis dolorum harum libero sit ipsa. Sequi, fuga? Sunt sint suscipit alias molestiae eum fugit veniam ipsum dignissimos, officiis modi nisi libero dolorum labore quae corporis quia corrupti! Autem odit laboriosam quasi vel, nulla dolorem totam tenetur corrupti dolor adipisci nihil odio temporibus officiis quam veritatis blanditiis obcaecati culpa, nostrum, aut quo maxime earum animi? Eligendi, natus? Doloribus a consectetur ipsum minima quibusdam, vel voluptas tenetur minus ex esse asperiores voluptatum at dolor dolore sapiente nostrum laborum vitae repellendus quaerat deleniti. Velit aliquam expedita sapiente dolore, minus laborum at error ea autem qui excepturi nihil, assumenda illum consequatur optio sequi!</p>
+        </div>
+    );
+};
+
+export default Products;
