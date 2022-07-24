@@ -15,7 +15,7 @@ const ProductCard = () => {
                         <p className='text-xl'>{product.desc}</p>
                         <p className='text-lg font-semibold text-neutral'>Price : $ {product.price}</p>
                         <div class="card-actions justify-end">
-                            <Link to={`/products/${product.id}`} class="btn btn-neutral">Show Details</Link>
+                            <Link to={`/product/${product.id}`} class="btn btn-neutral">Show Details</Link>
                         </div>
                     </div>
                 </div>)

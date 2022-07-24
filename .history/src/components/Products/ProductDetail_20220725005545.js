@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import {useParams} from 'react-router-dom'
 const ProductDetail = () => {
-    const {productId} = useParams()
+    const productId = useParams()
     console.log('productid',productId)
     return (
         <div>

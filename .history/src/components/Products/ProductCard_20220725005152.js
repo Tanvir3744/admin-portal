@@ -1,7 +1,7 @@
 import React from 'react';
 import { ShoppingCartIcon } from '@heroicons/react/outline';
 import { useSelector } from 'react-redux'
-import {Link} from 'react-router-dom'
+import Link from 'react-router-dom'
 const ProductCard = () => {
     const productState = useSelector((state) => state.setProdReducer.products)
     console.log(productState)
@@ -15,7 +15,7 @@ const ProductCard = () => {
                         <p className='text-xl'>{product.desc}</p>
                         <p className='text-lg font-semibold text-neutral'>Price : $ {product.price}</p>
                         <div class="card-actions justify-end">
-                            <Link to={`/products/${product.id}`} class="btn btn-neutral">Show Details</Link>
+                            <Link to={`product/${product.id}`} class="btn btn-neutral">Show Details</Link>
                         </div>
                     </div>
                 </div>)
